@@ -9,9 +9,6 @@ import jieba
 from sacremoses import MosesTokenizer
 import tqdm
 import json
-
-# A tokenizer for tokenizing Chinese text
-# Author: Chao Jinag at June 20, 2021
 import re
 import itertools
 from nltk import word_tokenize
